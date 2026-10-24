@@ -1,0 +1,92 @@
+<!-- BO Classnames -->
+
+<!-- Assault Rifles -->
+BO_AN94 - 5.45x39mm
+BO_SA58 - .308 Winchester
+BO_M110_Tan - .308 Winchester
+BO_M110_Black - .308 Winchester
+BO_M110_Senpai - .308 Winchester
+BO_SCARL_Black - 5.56x45mm
+BO_SCARL_Tan - 5.56x45mm
+BO_SCARH_Black - .308 Winchester
+BO_SCARH_Tan - .308 Winchester
+BO_MK18 - 5.56x45mm
+BO_F2000 - 5.56x45mm
+BO_L85 - 5.56x45mm
+BO_L85_RIS - 5.56x45mm
+BO_AKM - 7.62x39mm
+BO_AKM_FDE - 7.62x39mm
+BO_ARX160 - 7.62x54mm
+BO_HoneyBadger - .300 Blackout
+BO_TKB0146 - 5.45x39mm
+BO_AEK971 - 5.45x39mm
+
+<!-- Rifles -->
+BO_Kar98K - 7.92x57mm
+
+<!-- SMG's -->
+BO_PPSh - 7.62x25mm
+BO_Thompson - .45ACP
+BO_MP5SDA2 - 9x19mm
+BO_MP5SDA2_FDE - 9x19mm
+BO_MP5MPA2 - 9x19mm
+BO_MP5MPA2_FDE - 9x19mm
+BO_MP5RailA2 - 9x19mm
+BO_MP5RailA2_FDE - 9x19mm
+
+<!-- LMG's -->
+BO_RPK16 - 5.45x39mm
+BO_M60 - .308 Winchester
+BO_M249 - 5.56x45mm
+BO_PKP_Black - 7.62x54mm
+BO_PKP_FDE - 7.62x54mm
+
+<!-- Pistols -->
+BO_RagingBull - .357 Magnum
+BO_FiveSeven - 5.7x28mm
+BO_Glock26 - 9x19mm
+BO_Hellcat - 9x19mm
+BO_RugerMkIV_Black - 9x19mm
+BO_RugerMkIV_Red - .22LR
+
+<!-- Snipers -->
+BO_M300 - .408 Cheytac
+BO_R700Timberwolf - .338 Lapua Magnum
+BO_GM6Lynx - .50 BMG
+BO_MRAD - .338 Lapua Magnum
+BO_Delta5 - 6.5mm Creedmore
+BO_Delta5_Camo1 - 6.5mm Creedmore
+BO_Delta5_Camo2 - 6.5mm Creedmore
+BO_Delta5_Camo3 - 6.5mm Creedmore
+BO_Delta5_Camo4 - 6.5mm Creedmore
+BO_Delta5_Camo5 - 6.5mm Creedmore
+BO_Delta5_Camo6 - 6.5mm Creedmore
+BO_Delta5_Camo7 - 6.5mm Creedmore
+BO_Delta5_Camo8 - 6.5mm Creedmore
+BO_Delta5_Camo9 - 6.5mm Creedmore
+BO_Delta5_Camo10 - 6.5mm Creedmore
+BO_VSSK - 12.7x55mm STs-130
+BO_AS50 - .50 BMG
+BO_AS50_Camo1 - .50 BMG
+BO_AS50_Camo2 - .50 BMG
+BO_AS50_Camo3 - .50 BMG
+BO_AS50_Camo4 - .50 BMG
+BO_M40A1 - .308 Winchester
+BO_M40A1_Green - .308 Winchester
+BO_M40A1_Digital - .308 Winchester
+BO_TheFix - 8.6mm Blackout
+BO_TheFix_BlueTiger - 8.6mm Blackout
+BO_TheFix_RedTiger - 8.6mm Blackout
+BO_TheFix_Multicam - 8.6mm Blackout
+BO_AS50_RedTiger - .50 BMG
+BO_AS50_BlueTiger - .50 BMG
+BO_AS50_Fall - .50 BMG
+
+<!-- Shotguns -->
+BO_BenelliM4 - 12 Gauge
+BO_KSG - 12 Gauge
+BO_SPAS12_SemiAuto - 12 Gauge
+
+<!-- Launchers -->
+BO_M79   - 40MM Grenade
+BO_ChinaLake - 40MM Grenade

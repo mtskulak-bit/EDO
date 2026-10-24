@@ -1,0 +1,10 @@
+name = "Blackout's Expansive DayZ Overhaul"; 								// name
+picture = "BlackoutScripts/BlackoutEDO.paa";			// picture in expanded description
+logoSmall = "BlackoutScripts/BlackoutEDO.paa";	// icon next to mod name when description is not expanded
+logo = "BlackoutScripts/BlackoutEDO.paa";				// logo below game menu
+logoOver = "BlackoutScripts/BlackoutEDO.paa";		// on mouse hover over logo
+tooltip = "Blackout's Expansive DayZ Overhaul";							// tool tip on mouse hover
+overview = ""; 						// overview
+action = "";					// link
+author = "Blackout";								// author
+version = "2.7.3";								// version
